@@ -1,4 +1,4 @@
-# MineSweeper
+# WordsWithFriends
 
 ## AnagramDictionary
 Use hash map to store anagrams because get operations can be done in O(1) time complexity.
