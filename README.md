@@ -1,4 +1,5 @@
 # WordsWithFriends
+This console-based program finds all possible words from rack of scrabble tiles to help player decide move.
 
 ## AnagramDictionary
 Use hash map to store anagrams because get operations can be done in O(1) time complexity.
